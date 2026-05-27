@@ -4,7 +4,7 @@ name = input("Enter your name: ")
 age = int(input("Enter your age: "))
 
 print("Hello", dad")
-print("You are", age, "years old")
+print("You are", age,
 
 if age >= 18:
     print("You are eligible")
