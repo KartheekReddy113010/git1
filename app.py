@@ -3,7 +3,7 @@
 name = input("Enter your name: ")
 age = int(input("Enter your age: "))
 
-print("Hello", name)
+print("Hello", dad")
 print("You are", age, "years old")
 
 if age >= 18:
